@@ -15,7 +15,7 @@ jobs:
 
     steps:
 
-    - name: Checkout QMK
+    - name: Checkout Vial
       uses: actions/checkout@v3
       with:
         repository: vial-kb/vial-qmk
